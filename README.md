@@ -11,7 +11,7 @@ Se requiere utilizar la última version de Raspbian.
 
 ### Adafruit_MCP3008
 
-``git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git``
+``git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git`
 
 #Correr los archivos .py en Raspbian
 ``$ sudo python3 nombre_archivo.py``
